@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hadi-alnaqash
 - 👀 I’m interested in programming
 - 🌱 I have taken CS50x
+- 💼 I'm a junior frontend developer at Baly
 - 💞️ I’m looking to collaborate on on software projects
 - 📫 How to reach me \\ hadialnaqash98@gmail.com
 
