@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hadi-alnaqash
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning in CS50x
+- 🌱 I have taken CS50x
 - 💞️ I’m looking to collaborate on on software projects
 - 📫 How to reach me \\ hadialnaqash98@gmail.com
 
